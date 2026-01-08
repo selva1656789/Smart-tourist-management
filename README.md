@@ -22,23 +22,47 @@ Tourist Safety Web Application aims to improve travel safety by offering users h
 - Zod
 
 ## steps
-  Step 1:
-    Install Node.js
-    Make sure Node.js (v18 or above) is installed.
-    Check version:
-    node -v
-  Step 2: Clone the Repository
-    git clone https://github.com/selva1656789/touristsafetywebsitenew3fi.git
-    cd touristsafetywebsitenew3fi
-  Step 3: Install Dependencies
-    npm install
-  Step 4: Set Environment Variables
-    Create a file named .env.local in the root folder and add:
-    GOOGLE_API_KEY=your_api_key_here
- Step 5: Run the Project (Development Mode)
-    npm run dev or
-  Open your browser and go to:
-  http://localhost:3000
+  ⚙️ Installation & Setup
+Step 1: Install Node.js
+
+Make sure Node.js (v18 or above) is installed on your system.
+
+Check the version:
+
+node -v
+
+Step 2: Clone the Repository
+
+Clone the repository and move into the project directory:
+
+git clone https://github.com/selva1656789/touristsafetywebsitenew3fi.git
+cd touristsafetywebsitenew3fi
+
+Step 3: Install Dependencies
+
+Install all required dependencies:
+
+npm install
+
+Step 4: Set Environment Variables
+
+Create a file named .env.local in the root directory and add the following:
+
+GOOGLE_API_KEY=your_api_key_here
+
+
+
+Step 5: Run the Project (Development Mode)
+
+Start the development server:
+
+npm run dev
+
+
+Open your browser and navigate to:
+http://localhost:3000
+
+
 ##Screenshots
 ![WhatsApp Image 2026-01-07 at 3 29 46 PM](https://github.com/user-attachments/assets/ee511495-f715-417f-a132-745fe5b6a84e)
 ![WhatsApp Image 2026-01-07 at 3 29 46 PM (3)](https://github.com/user-attachments/assets/96bca7b2-ad54-4f52-82e1-3c8c70b2b944)
@@ -71,19 +95,9 @@ Hackathon project
 
 Portfolio project
 
-## 📈 Future Enhancements
-
-Real-time emergency alerts
-
-Location-based safety recommendations
-
-Multilingual support
-
-User authentication
-
-Backend API integration
 
 ## 👩‍💻 Author
+ Selvarani
 
 Selvarani
 
