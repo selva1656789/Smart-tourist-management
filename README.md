@@ -22,7 +22,9 @@ Tourist Safety Web Application aims to improve travel safety by offering users h
 - Zod
 
 ## steps
+
   ⚙️ Installation & Setup
+  
 Step 1: Install Node.js
 
 Make sure Node.js (v18 or above) is installed on your system.
@@ -63,7 +65,8 @@ Open your browser and navigate to:
 http://localhost:3000
 
 
-##Screenshots
+
+## Screenshots
 ![WhatsApp Image 2026-01-07 at 3 29 46 PM](https://github.com/user-attachments/assets/ee511495-f715-417f-a132-745fe5b6a84e)
 ![WhatsApp Image 2026-01-07 at 3 29 46 PM (3)](https://github.com/user-attachments/assets/96bca7b2-ad54-4f52-82e1-3c8c70b2b944)
 ![WhatsApp Image 2026-01-07 at 3 29 47 PM (1)](https://github.com/user-attachments/assets/3b4b736e-dbe8-44e2-a2aa-bc45e7216ab1)
